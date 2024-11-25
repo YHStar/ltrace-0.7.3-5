@@ -8,6 +8,7 @@
 #include <sys/types.h>
 #include <stdlib.h>
 #include <sched.h>
+#include <unistd.h>
 
 int child ()
 {
